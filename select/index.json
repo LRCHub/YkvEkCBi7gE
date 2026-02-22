@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Back Seat",
+  "base_artist": "ralph",
+  "createdAt": "2026-02-22T17:57:52.053721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Back Seat",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/01_Back_Seat_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Back Seat Lover",
+      "artist": "Mayer Hawthorne",
+      "has_synced": false,
+      "path": "select/02_Back_Seat_Lover_Mayer_Hawthorne.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heaven In the Back Seat",
+      "artist": "Eddie Money",
+      "has_synced": false,
+      "path": "select/03_Heaven_In_the_Back_Seat_Eddie_Money.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In The Back Seat",
+      "artist": "Arcade Fire",
+      "has_synced": true,
+      "path": "select/04_In_The_Back_Seat_Arcade_Fire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Back Seat (Gettin' Down)",
+      "artist": "Brian McKnight",
+      "has_synced": false,
+      "path": "select/05_Back_Seat_(Gettin'_Down)_Brian_McKnight.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Back Seat of My Car",
+      "artist": "Tim Christensen, Mike Viola & Tracy Bonham with The Damn Crystals",
+      "has_synced": false,
+      "path": "select/06_The_Back_Seat_of_My_Car_Tim_Christensen,_Mike_Viola_&_Tracy_Bonham_with_The_Damn_Crystals.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Back Seat of My Car",
+      "artist": "Paul McCartney feat. Linda McCartney",
+      "has_synced": true,
+      "path": "select/07_The_Back_Seat_of_My_Car_Paul_McCartney_feat._Linda_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Back Seat of My Car",
+      "artist": "Paul McCartney & Linda McCartney",
+      "has_synced": true,
+      "path": "select/08_The_Back_Seat_of_My_Car_Paul_McCartney_&_Linda_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Back Seat Rock'n Roll",
+      "artist": "Krokus",
+      "has_synced": false,
+      "path": "select/09_Back_Seat_Rock'n_Roll_Krokus.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Back-Seat Rock 'n' Roll",
+      "artist": "Krokus",
+      "has_synced": true,
+      "path": "select/10_Back-Seat_Rock_'n'_Roll_Krokus.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Back Seat Of My Car",
+      "artist": "Paul & Linda McCartney",
+      "has_synced": true,
+      "path": "select/11_The_Back_Seat_Of_My_Car_Paul_&_Linda_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Back Seat Confidential (Demo)",
+      "artist": "AC/DC",
+      "has_synced": false,
+      "path": "select/12_Back_Seat_Confidential_(Demo)_AC_DC.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Back seat dog",
+      "artist": "the pillows",
+      "has_synced": false,
+      "path": "select/13_Back_seat_dog_the_pillows.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Back Seat of My Car",
+      "artist": "Paul McCartney",
+      "has_synced": false,
+      "path": "select/14_The_Back_Seat_of_My_Car_Paul_McCartney.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Back Seat Of My Car",
+      "artist": "Paul McCartney & Wings",
+      "has_synced": false,
+      "path": "select/15_The_Back_Seat_Of_My_Car_Paul_McCartney_&_Wings.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Waste Your Time (Back Seat Star)",
+      "artist": "Slade",
+      "has_synced": true,
+      "path": "select/16_Don't_Waste_Your_Time_(Back_Seat_Star)_Slade.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Back Seat",
+      "artist": "Ralph",
+      "has_synced": false,
+      "path": "select/pl_01_Back_Seat_Ralph.txt"
+    }
+  ]
+}
