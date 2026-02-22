@@ -1,0 +1,67 @@
+# ralph – Back Seat
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+[Hook]
+乗り込む back seat 行き先あの街
+My job 乗りこなすMIC
+スキルが手に入れてくmoney
+Fake shit 聞き飽きた奴はcall me
+Like a ビジネスマン 仕事人
+アマチュアよりゼロいくらか多い
+俺らの正装はこの hoodie
+Looseなpantsで reclining
+今 back seat, who my enemies?
+目にもの見せる格の違い
+Best back seat お前 taxi
+フロアでbitchを追っかけな
+俺らback seat つまり pick me up
+俺専用 like a シャアアズナブル
+誰でも乗れちゃうbeatやbitchじゃ
+俺の器には似合ってないし
+[Verse]
+I'm hungry
+真っ暗闇 phone片手に悪だくみ
+No mercy
+冷たく立ち並ぶこの街のbuilding
+彩るgraffiti
+0と1の間に位置するstreet
+One shot one kill
+迷ってる間に 景色は流れる
+back seat
+I think
+大事なのは研いだ爪を出す
+タイミング
+まるでsniping
+チクタク鳴り響く冷酷な秒針
+進めていく着実
+俺ならガキの頃からの策士
+見た目だけで中身はないluxury
+鳴らすクラクション
+3.2.1 action
+心まで揺らす 重めのrap show
+"fire" only Instagram caption
+どんなbeatも乗りこなす楽勝
+括れないversionのperson
+傷モンpast から繰り出したword
+瞬く間に 掻っ攫ってった会場
+もう大丈夫
+[Hook]
+乗り込むback seat 行き先あの街
+My job 乗りこなす MIC
+スキルが手に入れてく money
+Fake shit 聞き飽きた奴はcall me
+Like a ビジネスマン 仕事人
+アマチュアよりゼロいくらか多い
+俺らの正装は この hoodie
+Looseなpantsで reclining
+今 bask seat, who my enemies?
+目に物見せる格の違い
+Best back seat お前 taxi
+フロアでbitchを追いかけな
+俺らback seat つまり pick me up
+俺専用 like a シャアアズナブル
+誰でも乗れちゃうbeatやbitchじゃ
+俺の器には似合ってないし
+```
